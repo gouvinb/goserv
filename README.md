@@ -18,6 +18,7 @@ goserv #[FLAG arg...]
 ```
 
 ### List of task
+
 -   `path`
 
     -   which directory to create doc server (default "./")
